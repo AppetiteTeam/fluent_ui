@@ -548,7 +548,7 @@ class NavigationViewState extends State<NavigationView> {
                             child: Container(
                               decoration: BoxDecoration(
                                 border: Border.all(
-                                  color: const Color(0xFF6c6c6c),
+                                  color: const Color(0xFFE53D4D),
                                   width: 0.15,
                                 ),
                                 borderRadius: BorderRadius.circular(8.0),
